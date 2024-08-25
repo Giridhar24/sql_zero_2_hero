@@ -1,4 +1,1 @@
-create table newTable (
-    id INT NOT NULL,
-    name VARCHAR(255) NOT NULL
-);
+SELECT * FROM users
