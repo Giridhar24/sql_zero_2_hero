@@ -1,1 +1,1 @@
-SELECT * FROM users
+SELECT * FROM users where user_age > 18;
